@@ -10,8 +10,6 @@ Building full-stack products from idea to deployment
   Sharing what I learn and build on <a href="https://x.com/shivamkumar_dev">X</a>
 </p>
 
----
-
 <strong>Tech Stack</strong>
 
 <p align="left">
@@ -22,10 +20,7 @@ Building full-stack products from idea to deployment
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
----
 
 <strong>Let's Connect</strong>
 
