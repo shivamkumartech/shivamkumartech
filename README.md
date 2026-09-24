@@ -3,7 +3,7 @@
 </h1>
 
 <h3>
-  I'm Shivam, Building full-stack products from idea to deployment 
+  I'm Shivam, building full-stack products from idea to deployment 
 </h3>
 
 <p>
