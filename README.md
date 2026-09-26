@@ -14,13 +14,6 @@
 </p>
 
 <p>
-  Sharing what I build and learn on
-  <a href="https://x.com/shivamkumar_dev">
-    X
-  </a> 
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
